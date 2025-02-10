@@ -1,0 +1,20 @@
+/* Estilos para el contenedor principal */
+.main-content {
+    text-align: center; /* Centra el texto */
+    padding: 20px;
+}
+.main-content div {
+    padding: 10px;
+}
+
+/* Cambia el color de las letras a blanco */
+.main-content h2, 
+.main-content h1, 
+.main-content p {
+    color: white; /* Cambia el color del texto a blanco */
+}
+
+/* Opcional: cambiar el color del texto en el párrafo */
+.main-content p {
+    color: white; /* Cambia el color de las letras en el párrafo */
+}
